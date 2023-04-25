@@ -18,7 +18,7 @@
 
 
 ### Encantado de verte aquí!  
-Soy un desarrollador Fullstack orientado al Front-End.  Desde que tengo uso de memoria soy fanático de la tecnología. Mis primeros lenguajes fueron C++  y Python que los vi en la facultad cuando estudiaba Ingeniería en sistemas. Esto despertó mis ganas de programar y aprender mas sobre el código, así que decidí dejar la carrear para completar mis estudios de manera auto-didacta.
+Soy un Desarrollador Full Stack orientado al Front-end con una gran capacidad para trabajar en equipo y consolidar proyectos web. Conmigo obtendrás, además de excelentes habilidades técnicas, un desarrollador con capacidad de liderazgo, escucha activa, actitud positiva, proactividad y con muchas ganas de ayudar y aprender de los demás, y así, fortalecer todas mis habilidades.
 
   
   
@@ -26,9 +26,8 @@ Soy un desarrollador Fullstack orientado al Front-End.  Desde que tengo uso de m
 <br/>  
 
 ### ¿Qué hago actualmente?  
-  
-
-Acabo de finalizar el bootcamp de soy Henry para convertirme en un desarrollador Fullstack. Ahora sigue mi camino especializándome en el front hasta lograr ser un experto.  
+Mi experiencia académica mas reciente fue la de desarrollador Full Stack en Henry, en donde aprendí y perfeccione mis bases de Back-end y Front-end que sigo profundizando hasta dia de hoy. Excelente uso de JavaScript, con librerías y frameworks como React, Next y Tailwind
+Mi nivel de ingles actual se encuentra en B2-Upper Intermediate (EF SET Certificate). Y estoy cursando C1 en ABA English.
   
 
 <br/>  
