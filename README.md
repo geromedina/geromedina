@@ -18,7 +18,7 @@
 
 
 ### Encantado de verte aquí!  
-Soy un Desarrollador Full Stack orientado al Front-end con una gran capacidad para trabajar en equipo y consolidar proyectos web. Conmigo obtendrás, además de excelentes habilidades técnicas, un desarrollador con capacidad de liderazgo, escucha activa, actitud positiva, proactividad y con muchas ganas de ayudar y aprender de los demás, y así, fortalecer todas mis habilidades.
+Soy un Desarrollador Full Stack con una gran capacidad para trabajar en equipo y consolidar proyectos web. Conmigo obtendrás, además de excelentes habilidades técnicas, un desarrollador con capacidad de liderazgo, escucha activa, actitud positiva, proactividad y con muchas ganas de ayudar y aprender de los demás, y así, fortalecer todas mis habilidades.
 
   
   
